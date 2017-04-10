@@ -7,3 +7,6 @@ https://www.ansible.com/e1t/c/*W625VBD9dhBxwW4Gm-k568xdVX0/*W7G_mV-5KD2_WW2t1RBJ
 
 
 http://docs.ansible.com/ansible/intro_installation.html?utm_campaign=General%20Content%20Nurture%20Flow&utm_source=hs_automation&utm_medium=email&utm_content=25273296&_hsenc=p2ANqtz-8iHHBKyEldt_AGR0kMAcCbl0gO8Z0NYvqfMCv5HJtTK4PiW8p-ybTSVtWhCBh4d7j_pxuXIZQ6vH-fV4XWTtxeQOGlNDYVAjVBHTOzopSsBJ-hWSw&_hsmi=25273296
+
+
+https://beehiveonline.oracle.com/teamcollab/wiki/Oracle+IAAS+-+Compute+Cloud+Workshop:Home 
